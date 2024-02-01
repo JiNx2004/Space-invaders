@@ -5,4 +5,3 @@ Recreating the classic space invaders game seen in arcades using libraries like 
 # Objective
 To learn more about pygame library
 
-
